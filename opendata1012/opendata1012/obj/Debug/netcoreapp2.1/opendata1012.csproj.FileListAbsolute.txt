@@ -1,0 +1,11 @@
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\obj\Debug\netcoreapp2.1\opendata1012.csprojAssemblyReference.cache
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\obj\Debug\netcoreapp2.1\opendata1012.csproj.CoreCompileInputs.cache
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\obj\Debug\netcoreapp2.1\opendata1012.AssemblyInfoInputs.cache
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\obj\Debug\netcoreapp2.1\opendata1012.AssemblyInfo.cs
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\bin\Debug\netcoreapp2.1\opendata1012.deps.json
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\bin\Debug\netcoreapp2.1\opendata1012.runtimeconfig.json
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\bin\Debug\netcoreapp2.1\opendata1012.runtimeconfig.dev.json
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\bin\Debug\netcoreapp2.1\opendata1012.dll
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\bin\Debug\netcoreapp2.1\opendata1012.pdb
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\obj\Debug\netcoreapp2.1\opendata1012.dll
+C:\Users\xxz31\Source\Repos\class1012\opendata1012\opendata1012\obj\Debug\netcoreapp2.1\opendata1012.pdb
