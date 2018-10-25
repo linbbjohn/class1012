@@ -1,0 +1,10 @@
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\bin\Debug\netcoreapp2.1\opendata.deps.json
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\bin\Debug\netcoreapp2.1\opendata.runtimeconfig.json
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\bin\Debug\netcoreapp2.1\opendata.runtimeconfig.dev.json
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\bin\Debug\netcoreapp2.1\opendata.dll
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\bin\Debug\netcoreapp2.1\opendata.pdb
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\obj\Debug\netcoreapp2.1\opendata.csproj.CoreCompileInputs.cache
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\obj\Debug\netcoreapp2.1\opendata.AssemblyInfoInputs.cache
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\obj\Debug\netcoreapp2.1\opendata.AssemblyInfo.cs
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\obj\Debug\netcoreapp2.1\opendata.dll
+C:\Users\xxz31\Source\Repos\class1012\opendata\opendata\obj\Debug\netcoreapp2.1\opendata.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opendata", "opendata\opendata.csproj", "{2EAC2DB0-F93C-431A-871E-516F40B1A1D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAC2DB0-F93C-431A-871E-516F40B1A1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAC2DB0-F93C-431A-871E-516F40B1A1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAC2DB0-F93C-431A-871E-516F40B1A1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAC2DB0-F93C-431A-871E-516F40B1A1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B2787C-BDE6-4B6E-BEEA-ECEFE3B31385}
+	EndGlobalSection
+EndGlobal
